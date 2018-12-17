@@ -1,0 +1,4 @@
+#Mon Dec 17 12:32:28 MYT 2018
+base.0=/Users/TeckKeat/AndroidStudioProjects/Scorekeeper/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
